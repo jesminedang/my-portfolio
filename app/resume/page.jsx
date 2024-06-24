@@ -8,7 +8,7 @@ import { SiTailwindcss, SiNextdotjs } from "react-icons/si";
 // about data
 const about = {
   title: "About me",
-  description: "Graduated with a Master's degree and passionate about IT, I am looking for a job as a developer. During my study internship and my work, I participated in defining user needs and writing programs with many years of IT experience, combined with solid training in the IT field and a strong aptitude for acquiring new knowledge. Recognized for my rigor and my autonomy, I would like to put my skills at your service.",
+  description: "Graduated with a Master's degree and passionate about IT, 6 years of practice in JAVA language, 5 years of practice in JAVASCRIPT language, my goal is to develop as a team. During my study internship and my work, I participated in defining user needs and writing programs with many years of IT experience, combined with solid training in the IT field and a strong aptitude for acquiring new knowledge. I master the design, development and maintenance of an application or website, I would like to put my skills at your service.",
   info: [
     { 
       fieldName: "Name",
